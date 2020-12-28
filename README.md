@@ -1,6 +1,6 @@
 ## Supporting material of "Whole plastomes are not enough: phylogenomic and morphometric exploration at multiple demographic levels of the bee orchid clade *Ophrys* sect. *Sphegodes*"
 
-This repositroy provides the whole plastid genome alignment used to infer ML phylogenies and networks, as well as the plastid' covariance matrix derived from plastid Genotype Likelihoods.
+This repository provides the whole plastid genome alignment used to infer ML phylogenies and networks, as well as the plastid' covariance matrix derived from plastid Genotype Likelihoods.
 
 If you make use of our datasets, please cite us:
 
